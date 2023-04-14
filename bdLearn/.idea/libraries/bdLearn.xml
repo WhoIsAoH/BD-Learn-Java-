@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bdLearn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/bdLearn.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
